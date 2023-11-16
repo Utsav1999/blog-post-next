@@ -1,2 +1,2 @@
 # blog-post-next
-This is a Next JS project.
+This is a personal blog application built using Next JS, Styled-JSX, and CSS modules.
